@@ -1,288 +1,288 @@
 [[LinearSampling]]
 arch = "aarch64"
-git-tree-sha1 = "cf07afa1b85fe03857640e8d90c17123089a6c66"
+git-tree-sha1 = "c18a3d583793a6cc2c061c219a46cc0038b1b15b"
 os = "macos"
 
     [[LinearSampling.download]]
-    sha256 = "794ff656ac90e7da60629556b8d1f4868ae925ec587d42ed0745b3cef79bb2f2"
-    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v0.0.1+0/LinearSampling.v0.0.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "a099ba3390355287bee06a439bb7cbfab35942d328cc7b0f803e00febdd1071e"
+    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v1.0.0+0/LinearSampling.v1.0.0.aarch64-apple-darwin.tar.gz"
 [[LinearSampling]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f4ee012443101d42fe1c3bb53b93644c2e20af01"
+git-tree-sha1 = "3ffc768f94ecb8415e947ba2f6b072c7d7ff570a"
 libc = "glibc"
 os = "linux"
 
     [[LinearSampling.download]]
-    sha256 = "a5b040bd48de805ea91c3d510a2a17288b96b64a1ad7ef5e9e9d64cc712a549e"
-    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v0.0.1+0/LinearSampling.v0.0.1.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "4e43eebfe195cd1e345d77ac56274cd38f22d3bd8603ff8dfe15305c4fc08b33"
+    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v1.0.0+0/LinearSampling.v1.0.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[LinearSampling]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bbfaffad7a3c1414afc0a6382fdb56eee948b2eb"
+git-tree-sha1 = "30f8d76ad1f51fbaa7c683fa03adb919fdf012af"
 libc = "glibc"
 os = "linux"
 
     [[LinearSampling.download]]
-    sha256 = "307001351891d657b31f2ae960c4c788ad6e821bab70ba2e7b22071d8a7813ef"
-    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v0.0.1+0/LinearSampling.v0.0.1.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "84f55bc09ea5adf73b930727eed2c3f0ecd3e27d385fd296df7c41100c87898a"
+    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v1.0.0+0/LinearSampling.v1.0.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[LinearSampling]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "773bf4cb05d55bbe41d71ccbbe2fefa6d813d5ce"
+git-tree-sha1 = "b07b43a0f312754ba1789b5d7b184d871e70ae37"
 libc = "musl"
 os = "linux"
 
     [[LinearSampling.download]]
-    sha256 = "708bc2244706351c8ef1e5537ccb40922067279d04811ab294b14fc95121e368"
-    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v0.0.1+0/LinearSampling.v0.0.1.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "1f5bb4cb1de989287a3c46da51132907814470ea44c542aa60f9a470f46c95b2"
+    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v1.0.0+0/LinearSampling.v1.0.0.aarch64-linux-musl-cxx03.tar.gz"
 [[LinearSampling]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b626c68f1f1486e3b3c80292e92e43015931c6ed"
+git-tree-sha1 = "aafdc2dbd3819994eaeaace2263781ced9f54e13"
 libc = "musl"
 os = "linux"
 
     [[LinearSampling.download]]
-    sha256 = "07bb2783ae0cc3fda9235507db5f24fd7ad94fd1c8877848422b8ce67c7473ff"
-    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v0.0.1+0/LinearSampling.v0.0.1.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "ccc510a124849c737ac269095374daf5ab9623f7abc3c3a760b0f13e70ba09fb"
+    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v1.0.0+0/LinearSampling.v1.0.0.aarch64-linux-musl-cxx11.tar.gz"
 [[LinearSampling]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bc84233ee050a756757d123056bd15b29c03ede2"
+git-tree-sha1 = "b95db0a32d24197f14af270aa88333e47e0a4601"
 libc = "glibc"
 os = "linux"
 
     [[LinearSampling.download]]
-    sha256 = "b1dbb07ba1ea1b8a83241e19c5a11f61cc1a51ccf601e6e6de52433e767035ba"
-    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v0.0.1+0/LinearSampling.v0.0.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "db57708ab3dcf757c1b54f68080a3ec9d3e4eed34166fdef3673eaa5829d181f"
+    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v1.0.0+0/LinearSampling.v1.0.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[LinearSampling]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a8d653b9852783d5b956d50c2576a8008ead8161"
+git-tree-sha1 = "7041d0c6a99ae25191368ffb9ecb5014c5370205"
 libc = "glibc"
 os = "linux"
 
     [[LinearSampling.download]]
-    sha256 = "18923e7e760b4e276e6c84bcf7250d5fe64bbbdb750d08791dddfec471280c16"
-    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v0.0.1+0/LinearSampling.v0.0.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "728a571389be3e7e4b79939d10550548a90d4b96795a9bc3dd832613a302e762"
+    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v1.0.0+0/LinearSampling.v1.0.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[LinearSampling]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7d4d15899113b460f64b94e81c3dbb8b7039d0e1"
+git-tree-sha1 = "df1ae0db425f2a20102b628938fb5bab7455f819"
 libc = "musl"
 os = "linux"
 
     [[LinearSampling.download]]
-    sha256 = "c63e9457a4842e385f911dffc6049d9e08fdc3e8ecf3273a759b6a115d107a53"
-    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v0.0.1+0/LinearSampling.v0.0.1.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "206c63336e56d26b3c984a7059bbeecd7c3a135d811f301d8ad2892ce1d4285e"
+    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v1.0.0+0/LinearSampling.v1.0.0.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[LinearSampling]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7c59164efe405dca473bb66d81b63b34ab2b6ef7"
+git-tree-sha1 = "75effa74dc1e7a1ba4fe6170881fbf1d1bd6546b"
 libc = "musl"
 os = "linux"
 
     [[LinearSampling.download]]
-    sha256 = "77d9f89eae5ea8d138a40e68bf700dd970cc8c65271f595118cd6acc8c06c9e1"
-    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v0.0.1+0/LinearSampling.v0.0.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "f3f7877ffeadbe30c8f53d1ea04f462e43debcdaf9495599d5e4894f46aa0b58"
+    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v1.0.0+0/LinearSampling.v1.0.0.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[LinearSampling]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6d7664e8d23c508dde5b59d7a92c9c577e3e2bab"
+git-tree-sha1 = "74941d450ad062bf6191e99c13adc2883fce92e0"
 libc = "glibc"
 os = "linux"
 
     [[LinearSampling.download]]
-    sha256 = "d66bf2811c1366a036ccf8736686bec56ed8d52bb539ae6f496723b1d4d32bdb"
-    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v0.0.1+0/LinearSampling.v0.0.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "20ff27e7613762fadc8b010c9d4147b0968e695d0acfe3d474caef6542698026"
+    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v1.0.0+0/LinearSampling.v1.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[LinearSampling]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7c505cb869e3000e8f41efcec61527b57d84258d"
+git-tree-sha1 = "f55ad38e75e7214212f70f268f71e1be338db64f"
 libc = "glibc"
 os = "linux"
 
     [[LinearSampling.download]]
-    sha256 = "935c01f550821d2ee5d3209cbfe70e0a20312201a877ae19f42343b245597113"
-    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v0.0.1+0/LinearSampling.v0.0.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "06e72064d5e588db325eb667e282d9e8738e828e63fa59d9a55c53a674b1011f"
+    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v1.0.0+0/LinearSampling.v1.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[LinearSampling]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "66c26494c89f9381cdaa2ee33b12096d34120675"
+git-tree-sha1 = "1a9d744b67d291f98fea85895f839113bf4d08b4"
 libc = "musl"
 os = "linux"
 
     [[LinearSampling.download]]
-    sha256 = "0cfb8fcaeac9b72fee467c48508af13a023ce53631b824161f1ab780605d7173"
-    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v0.0.1+0/LinearSampling.v0.0.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "a2c76e842e73e358f366308260a37406990f876a7924611dc27a97e7b20274fa"
+    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v1.0.0+0/LinearSampling.v1.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[LinearSampling]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "755d9c524ea89cfab6b40a4584e3ec3709de6073"
+git-tree-sha1 = "db9f8c464f48f08be698b039bcf36e490ee0e673"
 libc = "musl"
 os = "linux"
 
     [[LinearSampling.download]]
-    sha256 = "4452137d01913c79e7b63d6635781d761f621fdcab57f89f522ab27c3d1f734a"
-    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v0.0.1+0/LinearSampling.v0.0.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "c421323d4396d9fd1b8f3f3308689b1354328dd5c1b9e5732e7786012022f7d6"
+    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v1.0.0+0/LinearSampling.v1.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[LinearSampling]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "82fe8fe3ce252a16e597fc963d38837120590186"
+git-tree-sha1 = "2672cee15140f63fdc4e48f5c60814a80d50c6bc"
 libc = "glibc"
 os = "linux"
 
     [[LinearSampling.download]]
-    sha256 = "a9b7aaa45275b84384ffd9fa653d30588b221014c3f8d0c8e648184b4faa904e"
-    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v0.0.1+0/LinearSampling.v0.0.1.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "66a165ab62cf4d13fb24093c7815b65d6c94e49b54a4866fb8a6b9bc895af7dc"
+    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v1.0.0+0/LinearSampling.v1.0.0.i686-linux-gnu-cxx03.tar.gz"
 [[LinearSampling]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6da72fc1ee90fd38b004399fe3ea2a387ef10925"
+git-tree-sha1 = "839b3494c235e20687ec9642ec37a2f6b8ccc1e8"
 libc = "glibc"
 os = "linux"
 
     [[LinearSampling.download]]
-    sha256 = "f47a04db0d55f969a2b86506468e93690bf9d8c69904971f1a89165273f03c08"
-    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v0.0.1+0/LinearSampling.v0.0.1.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "3e255b386c1e6e954072dd243c487a22f3720fdd875a772c8aed3ba0a2f6fba8"
+    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v1.0.0+0/LinearSampling.v1.0.0.i686-linux-gnu-cxx11.tar.gz"
 [[LinearSampling]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7e1683225b14e5bc79247085f0b7fb40d548201a"
+git-tree-sha1 = "1532e32f57e37aaf3c6f9ed7be6b4289f451679e"
 libc = "musl"
 os = "linux"
 
     [[LinearSampling.download]]
-    sha256 = "74b78b8f8283f614b6193c96b03e4db43560100e29bff0986fc6dbe66e6d111f"
-    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v0.0.1+0/LinearSampling.v0.0.1.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "78a740c7b4c6ab933a6f8754d74de2dfe788962595d777fb26df26ea750ce0ea"
+    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v1.0.0+0/LinearSampling.v1.0.0.i686-linux-musl-cxx03.tar.gz"
 [[LinearSampling]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c2d8f2bd0b4602785cbc140e654f9bfd8021c7b5"
+git-tree-sha1 = "dde1599c2269621db43cdae859cee4078c471126"
 libc = "musl"
 os = "linux"
 
     [[LinearSampling.download]]
-    sha256 = "3c1a49b9a716aaabe6dcd1fa5cf1e6b1ef99056c2eec114c7457d174c9b0ca14"
-    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v0.0.1+0/LinearSampling.v0.0.1.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "9ba53328fba49db5b9441166274b9785373723a5aa55b111ebd9ed1db7667c07"
+    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v1.0.0+0/LinearSampling.v1.0.0.i686-linux-musl-cxx11.tar.gz"
 [[LinearSampling]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e6da68972fbec2cd80e228b7025c26e131f0b6eb"
+git-tree-sha1 = "869a402c7453bfd9765220472acff10c47163a8e"
 os = "windows"
 
     [[LinearSampling.download]]
-    sha256 = "c23f98a15d8f5ae578d623f5a5c27cfdf5d672605eb5267bd3e1163c4ed90f1b"
-    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v0.0.1+0/LinearSampling.v0.0.1.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "3f7b35471f87d3ed198857f3a5b9b0a4e9e05805f3cb1ac0390f503925a1f89f"
+    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v1.0.0+0/LinearSampling.v1.0.0.i686-w64-mingw32-cxx03.tar.gz"
 [[LinearSampling]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "aa09ec9692bda187f516a8f6266d4197d4915fff"
+git-tree-sha1 = "471a52260115251c4e5e47b64a9a06a256d7b559"
 os = "windows"
 
     [[LinearSampling.download]]
-    sha256 = "ea22dd6dc31cb45800d1c8f1d63a106de9478be49381cf4dd70e7d9460906881"
-    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v0.0.1+0/LinearSampling.v0.0.1.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "dac0540fdc9ec502a28b8ff1cc220a7cf17bc91d13562609e2668e8c39b17d31"
+    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v1.0.0+0/LinearSampling.v1.0.0.i686-w64-mingw32-cxx11.tar.gz"
 [[LinearSampling]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "28a0816fe27e6e4da2aa230fe1c9d70c4bb8a173"
+git-tree-sha1 = "f3b3b2f26d279e22fcebaba19c2961ca96b929fe"
 libc = "glibc"
 os = "linux"
 
     [[LinearSampling.download]]
-    sha256 = "4fed87a20779a65231027ac4ef5049d311a61da34be05bdbd79cb676be038e43"
-    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v0.0.1+0/LinearSampling.v0.0.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "c4e2bf67305e1542bf8b2c09a14f92a9761920cecaf9945e74ae3d52c3f744cd"
+    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v1.0.0+0/LinearSampling.v1.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[LinearSampling]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a4ab81d3453fac2a07c4cda5b8d665e55e3e905f"
+git-tree-sha1 = "227120b5da470681b628a8dea58f236de253487e"
 libc = "glibc"
 os = "linux"
 
     [[LinearSampling.download]]
-    sha256 = "d800bb39a9553aa06f9692908b5aeb4d0b3a7bd0774dd00503e98ea1ff8a98f6"
-    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v0.0.1+0/LinearSampling.v0.0.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "d77f74841e564ff593503f0f2b18d6f435eff8c960440b9c7a4d9ec9600e95a8"
+    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v1.0.0+0/LinearSampling.v1.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[LinearSampling]]
 arch = "x86_64"
-git-tree-sha1 = "706a539184099c4d090815b46bb50fabdc86dcf0"
+git-tree-sha1 = "6dd4cf0080f28568c36e0188253b337fc2053409"
 os = "macos"
 
     [[LinearSampling.download]]
-    sha256 = "99fa6cbb6da79a7479dd617332b89b06bda336a351587e7a6a004b444f49c76e"
-    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v0.0.1+0/LinearSampling.v0.0.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "3640976fbae6cf71adbea5f632dad77a56bef9d37cca9bccc36efce6290156d1"
+    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v1.0.0+0/LinearSampling.v1.0.0.x86_64-apple-darwin.tar.gz"
 [[LinearSampling]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0127657ad66684799149d2964b68fbfbcbd760e3"
+git-tree-sha1 = "5387a13d25d72722f64b2e78fbd5eae282b1bc16"
 libc = "glibc"
 os = "linux"
 
     [[LinearSampling.download]]
-    sha256 = "2add587cb547cae76fd8e3b388a79993f34138e5b52596e535a70008b336848e"
-    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v0.0.1+0/LinearSampling.v0.0.1.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "4a520bf93da52fbdb9364ffc3dd4ee0767b6bf5ad505749374ce429b264e4856"
+    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v1.0.0+0/LinearSampling.v1.0.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[LinearSampling]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2d8b6da6763183fc9ac460ff0afd465c77eefaac"
+git-tree-sha1 = "2578bdc50af6ef659257c2b4270c2820f5baae7b"
 libc = "glibc"
 os = "linux"
 
     [[LinearSampling.download]]
-    sha256 = "9c83a8a3ffd93551f99e493486007a3fcd36546ca7f69531d4de0373737a8395"
-    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v0.0.1+0/LinearSampling.v0.0.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "692e280c6f6682118d10932ca5f2ad3bc0aaefc99724924608174dbee29a9243"
+    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v1.0.0+0/LinearSampling.v1.0.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[LinearSampling]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5e2e1dc318a08995a7f0c8ebb9986ee372b4e23d"
+git-tree-sha1 = "ece191c8991dcab90ccedbcd0ea2400da2450185"
 libc = "musl"
 os = "linux"
 
     [[LinearSampling.download]]
-    sha256 = "bfbdb905976bc9cb4ad9da8cc647ddc5faa705b9d85085504064926c47c21295"
-    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v0.0.1+0/LinearSampling.v0.0.1.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "7c07b00f1c6cbcd5c305de8826650c103dd7e13a2b2f12882263b6d90886a07b"
+    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v1.0.0+0/LinearSampling.v1.0.0.x86_64-linux-musl-cxx03.tar.gz"
 [[LinearSampling]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ae65b259633d29875ee4d7dc5605f232dc680a91"
+git-tree-sha1 = "4cf054ab2dcd702d3157ee94d0c12c859f57132a"
 libc = "musl"
 os = "linux"
 
     [[LinearSampling.download]]
-    sha256 = "97c1ac0ad53aeaca920c80a4446d3338b246bc5d19214a648f2d0580031b7f50"
-    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v0.0.1+0/LinearSampling.v0.0.1.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "836d41214f2f181c3e32b8ffc5315091dac44df932b7a9842cc0f3403f54b8d9"
+    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v1.0.0+0/LinearSampling.v1.0.0.x86_64-linux-musl-cxx11.tar.gz"
 [[LinearSampling]]
 arch = "x86_64"
-git-tree-sha1 = "2641be83a00eabec8de7e9c93e7a29e0b00cf702"
+git-tree-sha1 = "e2e13b7f5065fe87acc3df6201b3eea868ec56ca"
 os = "freebsd"
 
     [[LinearSampling.download]]
-    sha256 = "162bd6eb4a81eb253a3efe6ea60531878020cb367a8c503f1d3b1690251b9c5b"
-    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v0.0.1+0/LinearSampling.v0.0.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "b5e52fdeac695e763df114218c720391d4855826a505ee066e4422d26509ae7f"
+    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v1.0.0+0/LinearSampling.v1.0.0.x86_64-unknown-freebsd.tar.gz"
 [[LinearSampling]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4fb564c8a22d598942c23bab1cea32539082a0cb"
+git-tree-sha1 = "0a240eb08ef81afbf24198d9e585568e301f0062"
 os = "windows"
 
     [[LinearSampling.download]]
-    sha256 = "f6061285a66b391fd5321753dca6e6b197ab357dd6649e69d3141ad4d162a395"
-    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v0.0.1+0/LinearSampling.v0.0.1.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "085aaaf07a85bd0fecb8e26cd2f0d0c570151fa33fce87bf72bbbf7453df97a9"
+    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v1.0.0+0/LinearSampling.v1.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
 [[LinearSampling]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "74024ac251392f7033bb9f86ca18a0716eac8fb4"
+git-tree-sha1 = "b396d837bd5af2ec3865b9cc0da5bbd4d129be97"
 os = "windows"
 
     [[LinearSampling.download]]
-    sha256 = "05998508b5556d45846990ff6c29868c37c067cf3db1704eb4d06e24466282ca"
-    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v0.0.1+0/LinearSampling.v0.0.1.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "3c5585f9244595265eddab9886a1ed0a69cb8d9850da15a34cab7977c71445d0"
+    url = "https://github.com/JuliaBinaryWrappers/LinearSampling_jll.jl/releases/download/LinearSampling-v1.0.0+0/LinearSampling.v1.0.0.x86_64-w64-mingw32-cxx11.tar.gz"

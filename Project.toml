@@ -1,6 +1,6 @@
 name = "LinearSampling_jll"
 uuid = "be43c337-7630-5e25-892b-702745a732dd"
-version = "0.0.1+0"
+version = "1.0.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
